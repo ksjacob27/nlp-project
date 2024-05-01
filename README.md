@@ -15,6 +15,8 @@ Sriyans: Worked primarily on the initial data analysis phase for the commercial 
 
 Tejas: Worked on the v1 of the emotion classification `Emotion_Analysis_v1_Tejas_Hariharan.pynb`, the `Lyric_Extender.pynb`, and the final song linked below.  
 
+Neil: Worked on "Lyric_Extender" and Genre Classification prediction with Kevin. This includes researching a feasible dataset that had the features we needed, as well as primarily coding the SVM algorithm and testing around with different chunking and test/train splits
+
 ## Final results:
 For the song lyric commercial performance task we achieved a RMSE of about 23.54 (the scale of predictions is 0-100).
 
@@ -30,7 +32,7 @@ This notebook also uses the file `explicit_words.txt` to check for explicit word
 
 For the commercial performance task (supplementary code), we have uploaded the datasets used to the following Drive link: https://drive.google.com/drive/folders/1zs_IN5WHrJ-WsPj3IMOxn871Bt6eZ6Ia?usp=sharing. Note that some of the data used in the notebook is scraped in the notebook code.
 
-For the V1 of the Emotion analysis, these datasets were used: 
+For the V1 of the Emotion analysis, and the genre classification, these datasets were used: 
 https://www.kaggle.com/datasets/parulpandey/emotion-dataset?select=validation.csv
 https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs?resource=download
 
