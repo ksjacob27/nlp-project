@@ -20,7 +20,7 @@ Vedant - Worked on the sentimental analysis to classify the emotion of the song 
 
 Kevin: Worked on the genre classification as well as creating a dataset for the improvement of the lyric extender. As for the genre classification I spent ample amount of time researching the ideal dataset to train our model to predict genres. I primarily worked on the genre classification python notebook that is included in the repository, designing the SVM algorithm and TF-IDF vectorizer. I also manually created a dataset of lyrics to upload to our model to create new lyrics. 
 
-Vedant: Contributed code in `Sentimental_Analysis.ipynb` as additional work on the task of sentiment analysis of lyrics in songs.
+Vedant: Contributed code in `Sentimental_Analysis.ipynb` as additional work on the task of sentiment analysis of lyrics in songs, alongside Tejas.
 ## Final results:
 For the song lyric commercial performance task we achieved a RMSE of about 23.54 (the scale of predictions is 0-100).
 
