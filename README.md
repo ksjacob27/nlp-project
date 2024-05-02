@@ -9,9 +9,9 @@ Necessary libraries are imported in the code.
 Unless otherwise noted, library versions are the most recent versions. Any new libraries not yet used in the class were installed via pip and the latest version.
 
 ## Contributions:
-Theo: Worked on the song lyric commercial performance task as shown in the file `Song Lyrics and Commercial Performance Task - Primary Code.ipynb`. Engineered features based on the lyrics data and developed a model to predict the popularity. For this task, the input is a set of lyrics and the output is the popularity. 
+Theo: Worked on the song lyric commercial performance task as shown in the file `Primary Code - Song Lyrics and Commercial Performance Task.ipynb`. Engineered features based on the lyrics data and developed a model to predict the popularity. For this task, the input is a set of lyrics and the output is the popularity. 
 
-Sriyans: Worked primarily on the initial data analysis phase for the commercial performance task. This included generating metrics and plots. For this portion, the code is in the `Song Lyrics and Commercial Performance Task - Supplementary Code.ipynb` file. NOTE: this is a large file, so it may not render on GitHub. Please download it to see it.
+Sriyans: Worked primarily on the initial data analysis phase for the commercial performance task. This included generating metrics and plots. For this portion, the code is in the `Supplementary Code - Song Lyrics and Commercial Performance Task.ipynb` file. NOTE: this is a large file, so it may not render on GitHub. Please download it to see it.
 
 Tejas: Worked on the v1 of the emotion classification `Emotion_Analysis_v1_Tejas_Hariharan.pynb`, the `Lyric_Extender.pynb`, and the final song linked below.  
 
