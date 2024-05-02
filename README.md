@@ -16,6 +16,7 @@ Sriyans: Worked primarily on the initial data analysis phase for the commercial 
 Tejas: Worked on the v1 of the emotion classification `Emotion_Analysis_v1_Tejas_Hariharan.pynb`, the `Lyric_Extender.pynb`, and the final song linked below.  
 
 Neil: Worked on "Lyric_Extender" and Genre Classification prediction with Kevin. This includes researching a feasible dataset that had the features we needed, as well as primarily coding the SVM algorithm and testing around with different chunking and test/train splits
+Vedant - Worked on the sentimental analysis to classify the emotion of the song as show in the file 'Sentimental_Analysis.ipynb'. It was done by using a pretrained RoBERTa model. The input is the lyrics of the song and the output is the emotion the song potrays.
 
 ## Final results:
 For the song lyric commercial performance task we achieved a RMSE of about 23.54 (the scale of predictions is 0-100).
